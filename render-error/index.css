@@ -1,0 +1,11 @@
+button {
+  background-color: papayawhip;
+  border-radius: 15px;
+  padding: 10px;
+  border: 1px solid rgb(243, 223, 193);
+  font-weight: 700;
+}
+
+#error {
+  color: red;
+}

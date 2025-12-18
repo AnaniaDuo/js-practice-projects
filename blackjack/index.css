@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background: green;
+  color: white;
+  font-size: 1.5rem;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+button {
+  font: inherit;
+  background-color: goldenrod;
+  color: green;
+  border: none;
+  width: 250px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 8px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
+
+#message-el {
+  font-style: italic;
+}

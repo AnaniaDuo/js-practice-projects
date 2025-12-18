@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+button {
+  background-color: papayawhip;
+  border-radius: 15px;
+  padding: 10px;
+  border: 1px solid rgb(243, 223, 193);
+  font-weight: 700;
+}
+
+span {
+  border-bottom: 2px solid black;
+}
